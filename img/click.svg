@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="32px" height="49px" viewBox="0 0 32 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="BestRes-Landing-Scrolled" transform="translate(-543.000000, -148.000000)" stroke="#4990E2" stroke-width="2">
+            <g id="click" transform="translate(544.000000, 149.000000)">
+                <path d="M11.8421053,15.5338983 C11.8421053,13.8881017 13.2994737,12.4510169 14.9313158,12.4510169 C16.5805263,12.4510169 18.1578947,13.8705763 18.1578947,15.5338983 L18.1578947,27.4830508 L26.7134211,30.531678 C28.6823684,31.1697627 29.3321053,33.5189661 28.8671053,35.5527119 L26.8421053,46.6016949 L11.0526316,46.6016949 L2.98578947,34.5489831 C2.08263158,33.1541186 1.99026316,30.531678 3.98210526,30.531678 C5.97236842,30.531678 7.86,31.649322 11.8421053,37.8389831 L11.8421053,15.5338983 L11.8421053,15.5338983 Z" id="Stroke-109"></path>
+                <path d="M30,14.7372881 L23.6842105,14.7372881" id="Stroke-111" stroke-linecap="round"></path>
+                <path d="M25.8806842,4.41632712 L21.8993684,8.4336322" id="Stroke-113" stroke-linecap="round"></path>
+                <path d="M15,0.398305085 L15,6.77118644" id="Stroke-115" stroke-linecap="round"></path>
+                <path d="M3.98171053,4.41632712 L7.96302632,8.4336322" id="Stroke-117" stroke-linecap="round"></path>
+                <path d="M0,14.7372881 L6.31578947,14.7372881" id="Stroke-119" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

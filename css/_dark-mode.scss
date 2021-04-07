@@ -1,0 +1,16 @@
+body.dark {
+  background-color: $gray-darker;
+  color: #fff;
+
+    nav {
+      background-color: $gray-darker;
+
+        &::after {
+          background-color: rgba(0,0,0,0.2);
+        }
+    }
+
+    section.made-by {
+      background-color: rgba(0,0,0,0.1);
+    }
+}

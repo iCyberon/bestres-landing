@@ -1,0 +1,10 @@
+*.json
+CNAME
+Gruntfile.js
+bower_components/flexboxgrid/css
+bower_components/flexboxgrid/js
+bower_components/flexboxgrid/src
+bower_components/flexboxgrid/vendor
+bower_components/flexboxgrid/img
+angular.headroom.js
+angular.headroom.min.js
